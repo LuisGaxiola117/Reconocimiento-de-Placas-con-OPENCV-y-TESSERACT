@@ -1,0 +1,1 @@
+# Reconocimiento-de-Placas-con-OPENCV-y-TESSERACT
